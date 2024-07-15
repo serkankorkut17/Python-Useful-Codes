@@ -128,7 +128,8 @@ doğru ilerliyor.
 
 29
 00:01:18,995 --> 00:01:20,330
-- [...]
+- Bana gönder.
+- Hayır.
 
 30
 00:01:20,705 --> 00:01:23,667
@@ -362,8 +363,8 @@ yok.
 
 81
 00:12:36,006 --> 00:12:39,005
-ama Daemon'un yükseltmesini
-umduğumuz bir şey.
+Ama Daemon'un yükseltmesini
+umduğumuz bir şey var.
 
 82
 00:12:39,009 --> 00:12:43,175
@@ -880,7 +881,7 @@ ejderha.
 
 190
 00:19:41,306 --> 00:19:42,595
-Bu konuda bir şey söylediğinizi
+Bu konuda bir şey belirttiğinizi
 hatırlamıyorum.
 
 191
@@ -1501,7 +1502,8 @@ sağlayabilir.
 
 321
 00:28:52,148 --> 00:28:55,735
-- [...]
+- Keşke ona yazabilseydin.
+- Hayır.
 
 322
 00:28:55,860 --> 00:28:57,862
@@ -1695,7 +1697,7 @@ Anlaştık.
 
 362
 00:31:09,160 --> 00:31:11,992
-Ae
+Aemond genç.
 
 363
 00:31:11,996 --> 00:31:14,958
@@ -1884,7 +1886,8 @@ mesajlar göndereceğim.
 
 401
 00:33:32,303 --> 00:33:35,140
-- [...]
+- Başka ne olabilir?
+- Dikkatimizi
 
 402
 00:33:35,265 --> 00:33:37,596
@@ -2160,7 +2163,8 @@ Biri onu yakalasın!
 
 459
 00:38:07,746 --> 00:38:09,748
-St [...]
+Geri çekilin!
+Hayır! Hayır!
 
 460
 00:38:09,873 --> 00:38:12,083
@@ -3029,7 +3033,8 @@ Majesteleri.
 
 641
 00:51:29,381 --> 00:51:32,217
-- [...]
+- Seyirci istiyorlar.
+- Şimdi mi?
 
 642
 00:51:32,717 --> 00:51:35,220
@@ -3370,7 +3375,8 @@ bizi bağlayan bağ.
 
 712
 01:00:17,200 --> 01:00:19,031
-- [...]
+- Sana hiçbir zarar gelemez.
+- Ve sen benim oğlumsun,
 
 713
 01:00:19,035 --> 01:00:21,246
@@ -3384,7 +3390,8 @@ için izin vermiyorsun.
 
 715
 01:00:26,126 --> 01:00:27,373
-B [...]
+Ama başka kim var?
+Rhaenys öldü,
 
 716
 01:00:27,377 --> 01:00:29,250
@@ -3465,999 +3472,967 @@ burada mı bekleyeyim?
 
 732
 01:01:32,984 --> 01:01:35,153
-Ejderhalara ihtiyacım
-var.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 733
 01:01:38,323 --> 01:01:41,493
-Ejderha sıkıntımız
-yok.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 734
 01:01:42,160 --> 01:01:45,159
-Vhagar'a karşı duracak kadar
-büyük iki adamımız var.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 735
 01:01:45,163 --> 01:01:48,454
-Onlara Vermithor ve
-Silverwing deniyor.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 736
 01:01:48,458 --> 01:01:50,001
-ve ayaklarımızın altında
-uyuyorlar.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 737
 01:01:50,126 --> 01:01:51,207
-Evet, keşke binicileri
-olsaydı,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 738
 01:01:51,211 --> 01:01:53,505
-kimse bana karşı
-duramazdı.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 739
 01:01:54,130 --> 01:01:57,509
-Zorunluluktan değil, güçten
-yola çıkacağım.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 740
 01:01:58,802 --> 01:02:00,053
-İşte Rhaena.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 741
 01:02:00,178 --> 01:02:03,348
-Son denemesinde neredeyse
-hayatını kaybediyordu.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 742
 01:02:04,724 --> 01:02:06,726
-Tekrar riske
-girmezdim.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 743
 01:02:12,524 --> 01:02:15,694
-Bizim soyumuzdan hiç hüküm
-sürmemiş olanlar var.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 744
 01:02:16,361 --> 01:02:19,906
-Diğer soylu evlerle
-evlenenler,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 745
 01:02:20,031 --> 01:02:22,655
-Çocukları başka isimlerle
-doğdu.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 746
 01:02:22,659 --> 01:02:26,492
-Bir nesil önce ya da daha fazla.
-Kanları ince olurdu.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 747
 01:02:26,496 --> 01:02:27,872
-Ve yine de...
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 748
 01:02:28,998 --> 01:02:33,332
-Bir ejderha sadece bir ejderha lordunun
-ona binmesini kabul eder.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 749
 01:02:33,336 --> 01:02:37,336
-- Or so say the histories.
-- Valyrian histories.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 750
 01:02:37,340 --> 01:02:39,505
-Written to gild us in glory.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 751
 01:02:42,220 --> 01:02:45,015
-Are you suggesting we put
-a Mallister on a dragon?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 752
 01:02:45,432 --> 01:02:49,227
-- A Tarly?
-- It's better than death and defeat.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 753
 01:02:55,025 --> 01:02:58,357
-There are records here,
-surely, of our line
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 754
 01:02:58,361 --> 01:03:00,739
-and of those who fell out of it.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 755
 01:03:08,204 --> 01:03:09,869
-There could be scores of them.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 756
 01:03:17,589 --> 01:03:19,466
-It's a mad thought.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 757
 01:04:52,684 --> 01:04:54,348
-<i>It has never been
-attempted before.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 758
 01:04:56,396 --> 01:04:57,564
-To claim a dragon,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 759
 01:04:57,981 --> 01:05:00,567
-<i>you must also be
-prepared to die.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 760
 01:05:01,526 --> 01:05:03,194
-<i>Perhaps the gods will favor us.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 761
 01:05:04,988 --> 01:05:06,652
-<i>If Daemon prevails
-in the Riverlands,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 762
 01:05:06,656 --> 01:05:08,658
-<i>I no longer have the
-numbers to challenge him.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 763
 01:05:08,992 --> 01:05:11,202
-My uncle is a
-challenge I welcome,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 764
 01:05:11,327 --> 01:05:12,203
-<i>if he dares face me.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 765
 01:05:12,537 --> 01:05:14,537
-<i>You have the arrogance of youth.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 766
 01:05:15,373 --> 01:05:16,871
-Have the indignities
-of your childhood
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 767
 01:05:16,875 --> 01:05:18,209
-not yet sufficiently
-been avenged?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 768
 01:05:19,544 --> 01:05:22,335
-<i>You must see in me a ruler
-and the symbols of authority.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 769
 01:05:22,339 --> 01:05:24,090
-<i>The shield and the sword.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 770
 01:05:24,215 --> 01:05:25,713
-<i>We will still never match</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 771
 01:05:25,717 --> 01:05:27,214
-<i>the strength of
-the Green armies.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 772
 01:05:27,218 --> 01:05:28,345
-We need Daemon.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 773
 01:05:29,220 --> 01:05:31,890
-<i>I must now proceed
-as if I stand alone.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 774
 01:05:33,183 --> 01:05:35,514
-It is my fault that you
-have forgotten to fear me.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 775
 01:05:54,788 --> 01:05:57,078
-<i>This episode is very much</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 776
 01:05:57,082 --> 01:05:59,125
-everybody vying for power,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 777
 01:05:59,250 --> 01:06:03,042
-<i>but also, it's very much about
-that happening through grief.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 778
 01:06:06,091 --> 01:06:08,923
-Much of episode five revolves
-around how Rhaenys' death
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 779
 01:06:08,927 --> 01:06:11,592
-is resonating across all of
-the different characters,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 780
 01:06:11,596 --> 01:06:15,308
-<i>and no one as much as it lands
-with her husband, Corlys.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 781
 01:06:16,601 --> 01:06:19,058
-<i>This poor guy, over the
-course of these two seasons,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 782
 01:06:19,062 --> 01:06:21,314
-<i>has slowly had every
-human connection</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 783
 01:06:21,439 --> 01:06:23,608
-<i>stripped away from
-him, one by one.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 784
 01:06:23,942 --> 01:06:25,606
-He's sitting in
-the Hall of Nine,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 785
 01:06:25,610 --> 01:06:26,982
-but it means nothing
-to him anymore
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 786
 01:06:26,986 --> 01:06:28,109
-because she's gone.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 787
 01:06:28,113 --> 01:06:29,902
-<i>And all of this
-stuff, who cares?</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 788
 01:06:29,906 --> 01:06:31,946
-<i>Steve is an incredible actor.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 789
 01:06:31,950 --> 01:06:36,329
-He has such deep soul to
-all of his performances.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 790
 01:06:37,163 --> 01:06:40,162
-<i>I had no clue that he
-was gonna have this tear,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 791
 01:06:40,166 --> 01:06:42,168
-<i>like this silent tear,
-roll down his face.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 792
 01:06:42,293 --> 01:06:44,963
-It was incredibly
-moving to see it.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 793
 01:06:47,590 --> 01:06:49,676
-Our largest dragon
-has been killed.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 794
 01:06:50,260 --> 01:06:53,134
-Duskendale and
-Rook's Rest are gone.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 795
 01:06:53,138 --> 01:06:54,260
-I think everybody's reeling.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 796
 01:06:54,264 --> 01:06:55,864
-I mean, Rhaenyra, not
-the least of which.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 797
 01:06:55,974 --> 01:06:58,305
-<i>And you hear a lot
-of this backbiting</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 798
 01:06:58,309 --> 01:06:59,686
-<i>and bickering going
-on at the table</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 799
 01:06:59,811 --> 01:07:02,518
-<i>because everybody is under a
-tremendous amount of stress.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 800
 01:07:02,522 --> 01:07:03,857
-<i>They don't know how to react.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 801
 01:07:04,441 --> 01:07:06,151
-<i>But Rhaenyra finds
-herself at sea.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 802
 01:07:06,317 --> 01:07:09,863
-I mean, that was her last
-great female advisor.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 803
 01:07:10,196 --> 01:07:12,987
-<i>And that's also
-when Rhaenyra sees</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 804
 01:07:12,991 --> 01:07:15,031
-<i>this huge power vacuum</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 805
 01:07:15,035 --> 01:07:16,536
-and knows she's got
-to do something.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 806
 01:07:17,203 --> 01:07:19,205
-Queen Rhaenyra wishes
-to name you Hand.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 807
 01:07:19,664 --> 01:07:22,709
-Even the death of my wife
-does not content her.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 808
 01:07:23,043 --> 01:07:24,957
-She's playing the role of
-the great politician here.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 809
 01:07:24,961 --> 01:07:27,047
-The next best thing, next
-to having Daemon back,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 810
 01:07:27,172 --> 01:07:29,462
-<i>is one of the most
-respected men in Westeros,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 811
 01:07:29,466 --> 01:07:30,675
-<i>and that's the Sea Snake.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 812
 01:07:30,967 --> 01:07:33,507
-And she doesn't exploit
-Rhaenys' death to do it.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 813
 01:07:33,511 --> 01:07:35,843
-<i>She knows that the man is
-there, looking for purpose,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 814
 01:07:35,847 --> 01:07:37,345
-<i>probably looking for
-a bit of vengeance,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 815
 01:07:37,349 --> 01:07:39,180
-<i>and she probably takes
-advantage of that in the moment</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 816
 01:07:39,184 --> 01:07:40,685
-to try to get him back on side.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 817
 01:07:42,812 --> 01:07:44,397
-The path I walk has
-never been trod.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 818
 01:07:44,564 --> 01:07:48,526
-What you cannot do,
-let others do for you.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 819
 01:07:49,069 --> 01:07:51,696
-There is more than one
-way to fight a war.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 820
 01:07:52,238 --> 01:07:55,237
-I think Mysaria's power
-increases in Rhaenys' absence
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 821
 01:07:55,241 --> 01:07:56,697
-because I think
-Rhaenyra is desperate
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 822
 01:07:56,701 --> 01:07:59,746
-<i>and looking for that sympathetic
-female voice in her life.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 823
 01:08:00,246 --> 01:08:02,036
-<i>Mysaria's offering
-another way, which is,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 824
 01:08:02,040 --> 01:08:03,917
-"I understand the
-will of the people,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 825
 01:08:04,084 --> 01:08:05,873
-and we can manipulate that
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 826
 01:08:05,877 --> 01:08:07,333
-and play that to
-your advantage."
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 827
 01:08:07,337 --> 01:08:09,422
-An element of what
-we're watching
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 828
 01:08:09,547 --> 01:08:10,711
-is propaganda war.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 829
 01:08:10,715 --> 01:08:12,384
-<i>How to win the
-hearts of the people.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 830
 01:08:12,509 --> 01:08:15,216
-And that's all learning that
-she receives from Mysaria.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 831
 01:08:15,220 --> 01:08:17,677
-<i>I don't think this is
-something that Rhaenyra</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 832
 01:08:17,681 --> 01:08:18,801
-<i>had thought of or considered</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 833
 01:08:18,890 --> 01:08:20,725
-<i>until Mysaria brought
-it to the fore.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 834
 01:08:21,017 --> 01:08:22,602
-And it's a bit of
-a modern concept,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 835
 01:08:22,727 --> 01:08:25,393
-this idea of the, quote-unquote,
-"power of the people."
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 836
 01:08:25,397 --> 01:08:27,941
-I have an errand for
-the Lady Mysaria.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 837
 01:08:28,108 --> 01:08:30,231
-<i>In real history, smart
-and sometimes cunning</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 838
 01:08:30,235 --> 01:08:34,193
-<i>and ruthless medieval sovereigns
-did use people and their will</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 839
 01:08:34,197 --> 01:08:35,444
-<i>to their advantage.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 840
 01:08:35,448 --> 01:08:36,700
-Behold!
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 841
 01:08:37,200 --> 01:08:39,953
-The traitor dragon, Meleys!
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 842
 01:08:40,453 --> 01:08:42,414
-It is. Look, they've
-killed a dragon.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 843
 01:08:42,622 --> 01:08:45,083
-Mark my words, this
-is a black omen.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 844
 01:08:45,208 --> 01:08:47,206
-I think this is very...
-this is very Cole.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 845
 01:08:47,210 --> 01:08:49,083
-<i>His expectations are so high.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 846
 01:08:49,087 --> 01:08:51,798
-His expectations are
-for people to honor him
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 847
 01:08:51,923 --> 01:08:53,758
-and put him up on a pedestal.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 848
 01:08:53,925 --> 01:08:55,256
-If you look like you've won
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 849
 01:08:55,260 --> 01:08:57,258
-and you carry yourselves
-like you've won,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 850
 01:08:57,262 --> 01:08:59,218
-<i>and the public don't know
-what's really happened,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 851
 01:08:59,222 --> 01:09:00,982
-<i>then that's what everyone's
-going to believe.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 852
 01:09:01,099 --> 01:09:02,976
-But what happens
-is so different.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 853
 01:09:03,101 --> 01:09:04,894
-Don't they realize
-we won the battle?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 854
 01:09:05,437 --> 01:09:07,643
-Strange victory, if it was one.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 855
 01:09:07,647 --> 01:09:09,437
-<i>The calculation
-that he doesn't make</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 856
 01:09:09,441 --> 01:09:11,147
-is how it will land
-on the small folk.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 857
 01:09:11,151 --> 01:09:13,153
-I mean, Meleys is
-a beloved dragon
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 858
 01:09:13,278 --> 01:09:15,276
-<i>that probably flew over
-that city hundreds of times</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 859
 01:09:15,280 --> 01:09:17,069
-<i>and is seen as one
-of these symbols</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 860
 01:09:17,073 --> 01:09:18,487
-<i>of the unshakableness,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 861
 01:09:18,491 --> 01:09:20,994
-<i>of the invincibility
-of the Targaryens.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 862
 01:09:21,119 --> 01:09:22,450
-I thought the dragons was gods.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 863
 01:09:22,454 --> 01:09:23,784
-<i>You know, as soon
-as people can see</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 864
 01:09:23,788 --> 01:09:26,332
-you can kill dragons, well,
-then anybody can do it.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 865
 01:09:26,458 --> 01:09:28,960
-And that... does that mean
-that these people that have...
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 866
 01:09:29,085 --> 01:09:30,583
-we've always thought
-of as being gods
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 867
 01:09:30,587 --> 01:09:32,672
-<i>because of their
-ability to ride dragons</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 868
 01:09:33,131 --> 01:09:35,592
-<i>is actually all a
-bit of a mirage?</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 869
 01:09:36,634 --> 01:09:39,012
-<i>This is, at best,
-a terrible omen</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 870
 01:09:39,137 --> 01:09:41,639
-and at worst, a harbinger
-of the things to come.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 871
 01:09:45,977 --> 01:09:48,768
-The King. Ser Criston,
-what befell him?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 872
 01:09:48,772 --> 01:09:50,357
-His Grace fought valiantly.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 873
 01:09:51,024 --> 01:09:53,651
-And Aemond? What was
-his part in this?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 874
 01:09:53,777 --> 01:09:54,986
-I could not say.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 875
 01:09:55,362 --> 01:09:58,698
-<i>The dramatic tension that
-looms over the episode is,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 876
 01:09:58,823 --> 01:10:00,363
-what is the state of Aegon?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 877
 01:10:00,367 --> 01:10:03,995
-<i>And did he survive the
-end of episode four?</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 878
 01:10:04,496 --> 01:10:06,536
-<i>And will he survive through
-the end of this episode?</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 879
 01:10:06,623 --> 01:10:08,120
-<i>And I think that's
-what's kind of looming</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 880
 01:10:08,124 --> 01:10:10,043
-<i>over all these characters,
-that big question,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 881
 01:10:10,335 --> 01:10:13,129
-<i>to show the cost of
-letting your sovereign</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 882
 01:10:13,296 --> 01:10:15,048
-get on his dragon
-and ride into battle.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 883
 01:10:15,215 --> 01:10:17,213
-Someone will have to
-rule in his stead.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 884
 01:10:17,217 --> 01:10:19,006
-<i>I mean, it's everything
-he ever wanted.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 885
 01:10:19,010 --> 01:10:21,133
-With great power comes
-great responsibility,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 886
 01:10:21,137 --> 01:10:22,889
-and he's got to
-be seen as someone
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 887
 01:10:23,014 --> 01:10:24,182
-<i>who knows how to wield it.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 888
 01:10:24,391 --> 01:10:26,681
-I agree, Your Grace. It
-must be Prince Aemond.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 889
 01:10:26,685 --> 01:10:28,349
-<i>I mean, this is a
-massive power shift,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 890
 01:10:28,353 --> 01:10:29,850
-all of a sudden, at
-the Green Council.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 891
 01:10:29,854 --> 01:10:33,020
-It was dramatized by the
-meeting where Aemond takes power
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 892
 01:10:33,024 --> 01:10:34,264
-<i>in this very kind of banal way,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 893
 01:10:34,401 --> 01:10:36,399
-<i>where he just stands up
-from the foot of the table,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 894
 01:10:36,403 --> 01:10:38,150
-<i>takes his ball, and moves
-over to the King's seat,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 895
 01:10:38,154 --> 01:10:39,531
-<i>and puts it down, and sits,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 896
 01:10:39,656 --> 01:10:41,195
-<i>and then starts
-doling out orders</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 897
 01:10:41,199 --> 01:10:42,863
-<i>while everybody,
-including Alicent,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 898
 01:10:42,867 --> 01:10:43,906
-<i>especially Alicent,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 899
 01:10:43,910 --> 01:10:45,870
-<i>are reeling from the decision.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 900
 01:10:45,995 --> 01:10:47,368
-And you feel the
-shift in that way
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 901
 01:10:47,372 --> 01:10:49,745
-and how different the
-Red Keep is going to be
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 902
 01:10:49,749 --> 01:10:52,168
-with Aemond in charge versus
-the way it was with Aegon.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 903
 01:10:52,544 --> 01:10:54,921
-Someone cut down the
-fucking ratcatchers.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 904
 01:10:56,506 --> 01:10:58,004
-Our terms are
-simple, Lord Bracken.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 905
 01:10:58,008 --> 01:11:00,760
-Renounce the false King
-Aegon as a usurper.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 906
 01:11:01,845 --> 01:11:03,179
-Bend the knee to me,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 907
 01:11:04,597 --> 01:11:05,890
-or your house burns.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 908
 01:11:06,391 --> 01:11:09,056
-Daemon approaches life
-always trying to hammer
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 909
 01:11:09,060 --> 01:11:11,225
-that square peg
-into the round hole,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 910
 01:11:11,229 --> 01:11:14,858
-and he's just trying to force
-his will upon this place.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 911
 01:11:15,567 --> 01:11:18,899
-I love the image of him in
-his full dragon battle armor,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 912
 01:11:18,903 --> 01:11:19,946
-sitting on the rock,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 913
 01:11:20,280 --> 01:11:22,737
-<i>and not understanding what's
-happened, and saying...</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 914
 01:11:22,741 --> 01:11:25,364
-I did not think they
-would be so eager to die.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 915
 01:11:25,368 --> 01:11:28,288
-And the Riverlands is just this
-unwrangleable place to him.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 916
 01:11:28,413 --> 01:11:30,077
-<i>He's brought his values</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 917
 01:11:30,081 --> 01:11:32,792
-<i>and sort of Targaryen
-dragon lord values</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 918
 01:11:32,917 --> 01:11:34,123
-<i>into a place that is rich</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 919
 01:11:34,127 --> 01:11:35,750
-<i>with the old gods
-and these old ways.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 920
 01:11:35,754 --> 01:11:38,377
-These people just don't
-respect the dragon lords
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 921
 01:11:38,381 --> 01:11:40,592
-<i>the way Daemon is
-hoping or used to.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 922
 01:11:40,717 --> 01:11:43,261
-I see I must begin here
-with a lesson in etiquette.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 923
 01:11:43,428 --> 01:11:46,886
-On the page, I thought, "Yeah,
-this is the right territory.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 924
 01:11:46,890 --> 01:11:49,221
-This is where we should be.
-This is where his head's at."
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 925
 01:11:49,225 --> 01:11:51,557
-<i>It's how mental his
-kind of state is.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 926
 01:11:51,561 --> 01:11:54,477
-<i>Is Daemon trying
-to usurp Rhaenyra?</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 927
 01:11:54,481 --> 01:11:57,650
-It's, like, unfair that
-he wasn't given the crown,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 928
 01:11:57,776 --> 01:12:00,107
-that he isn't listened to,
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 929
 01:12:00,111 --> 01:12:01,988
-<i>that he doesn't have that power.</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 930
 01:12:02,155 --> 01:12:03,944
-We just don't know
-what he's going to do
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 931
 01:12:03,948 --> 01:12:06,322
-or, ultimately, how
-he's going to turn.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 932
 01:12:06,326 --> 01:12:08,783
-<i>And while I don't think that
-anybody could ever be asked</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 933
 01:12:08,787 --> 01:12:11,285
-<i>to believe that he would
-turn against Rhaenyra</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 934
 01:12:11,289 --> 01:12:12,791
-<i>and, like, go to
-war against her,</i>
+<i>Yoksa hepimiz yok olana kadar burada mı bekleyeyim?</i>
 
 935
 01:12:12,957 --> 01:12:15,289
-I think we could all believe
-that maybe Daemon would just go
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 936
 01:12:15,293 --> 01:12:17,124
-and claim the throne for himself
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 937
 01:12:17,128 --> 01:12:18,254
-and then see what happens.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 938
 01:12:18,463 --> 01:12:20,340
-What would you call the
-husband of the Queen?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 939
 01:12:20,507 --> 01:12:22,588
-- Well, the King...
-- There it is, then.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 940
 01:12:22,592 --> 01:12:23,635
-...consort.
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
 941
 01:12:25,178 --> 01:12:27,514
-That last bit seems
-unnecessary, don't you think?
+Yoksa hepimiz yok olana kadar
+burada mı bekleyeyim?
 
