@@ -11,4 +11,4 @@ Selenium
 -pip install seleniumbase
 
 
-playwright codegen https://www.deepl.com/translator
+-- playwright codegen https://www.deepl.com/translator --
