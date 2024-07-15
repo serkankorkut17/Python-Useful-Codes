@@ -58,13 +58,15 @@ def extract_tags_and_text(text):
 
 def reinsert_tags(tags, translated_text):
     result = translated_text
-    
-    if len(result) > CHARACTER_LIMIT_PER_LINE:
-        half_of_text = len(result) // 2
-        first_space_index = result[half_of_text:].find(' ')
-        if first_space_index != -1: 
-            first_space_index += half_of_text
-            result = result[:first_space_index] + '\\N' + result[first_space_index+1:]
+    if '-' in result:
+        result = result.replace('-', '\\N-').strip()
+    else:
+        if len(result) > CHARACTER_LIMIT_PER_LINE:
+            half_of_text = len(result) // 2
+            first_space_index = result[half_of_text:].find(' ')
+            if first_space_index != -1: 
+                first_space_index += half_of_text
+                result = result[:first_space_index] + '\\N' + result[first_space_index+1:]
     if len(tags) == 2:
         result = tags[0] + translated_text + tags[1]
     return result 

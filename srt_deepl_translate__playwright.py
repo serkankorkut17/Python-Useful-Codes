@@ -17,18 +17,20 @@ def extract_tags_and_text(text):
 
 def reinsert_tags(tags, translated_text):
     result = translated_text
-    if len(result) > CHARACTER_LIMIT_PER_LINE:
-        half_of_text = len(result) // 2
-        first_space_index = result[half_of_text:].find(' ')
-        if first_space_index != -1:
-            first_space_index += half_of_text
-            result = result[:first_space_index] + '\\N' + result[first_space_index+1:]
+    # Check if the result contains a dash
+    if '-' in result:
+        result = result.replace('-', '\\N-').strip()
+    else:
+        if len(result) > CHARACTER_LIMIT_PER_LINE:
+            half_of_text = len(result) // 2
+            first_space_index = result[half_of_text:].find(' ')
+            if first_space_index != -1:
+                first_space_index += half_of_text
+                result = result[:first_space_index] + '\\N' + result[first_space_index+1:]
     if len(tags) == 2:
         result = tags[0] + translated_text + tags[1]
     
     return result
-
-
 
 def translate_text(text, page):
     try:
@@ -37,8 +39,9 @@ def translate_text(text, page):
         # write the text to the input field
         page.get_by_test_id("translator-source-input").get_by_label("Kaynak metni").fill(text)
         page.get_by_test_id("translator-source-input").get_by_label("Kaynak metni").press("Enter")
-        page.wait_for_timeout(100)
+        # page.wait_for_timeout(100)
         # get the translated text
+     
         while len(page.get_by_test_id("translator-target-input").get_by_label("Çeviri sonuçları").inner_text().strip()) <= 1:
             page.wait_for_timeout(SLEEP_TIME * 1000)
         translated_text = page.get_by_test_id("translator-target-input").get_by_label("Çeviri sonuçları").inner_text()
