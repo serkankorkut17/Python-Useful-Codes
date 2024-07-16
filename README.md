@@ -1,12 +1,12 @@
 # Subtitle-Translate
 -pip install pysubs2
 
-Playwright Installation
+Playwright Installation:
 -pip install pytest-playwright
 -playwright install
 -(playwright codegen [url])
 
-Selenium
+Selenium Installation:
 -pip install selenium
 -pip install seleniumbase
 
