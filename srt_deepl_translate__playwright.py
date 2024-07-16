@@ -3,6 +3,7 @@ import pysubs2
 import re
 import time
 
+REOPEN_BROWSER = 500
 WAIT_FOR_CONFIG = 5
 CHARACTER_LIMIT_PER_LINE = 20
 SLEEP_TIME = 0.2
@@ -52,10 +53,8 @@ def translate_text(text, page):
         time.sleep(20)
         page.screenshot(path="error_screenshot.png")
         raise e
-
-with sync_playwright() as playwright:
-    subs = pysubs2.load(SRT_FILE)
     
+def open_deepl(playwright):
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     page = context.new_page()
@@ -65,13 +64,21 @@ with sync_playwright() as playwright:
     # Choose the target language
     page.get_by_test_id("translator-target-lang-btn").click()
     page.get_by_test_id("translator-lang-option-tr").click()
+    return browser, context, page
+
+with sync_playwright() as playwright:
+    subs = pysubs2.load(SRT_FILE)
+    browser, context, page = open_deepl(playwright)
     
     counter = 0
     try:
         for line in subs:
-            if counter % 50 == 0:
-                page.reload()
-                page.wait_for_timeout(WAIT_FOR_CONFIG * 1000)
+            if counter % REOPEN_BROWSER == 0:
+                context.close()
+                browser.close()
+                time.sleep(WAIT_FOR_CONFIG)
+                browser, context, page = open_deepl(playwright)
+                
             tags, clean_text = extract_tags_and_text(line.text)
             clean_text = translate_text(clean_text, page)
             print(f"Translated text: {clean_text}")

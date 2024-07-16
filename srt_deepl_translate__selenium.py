@@ -4,6 +4,7 @@ import pysubs2
 import re
 import platform
 
+REOPEN_BROWSER = 500
 WAIT_FOR_CONFIG = 5
 CHARACTER_LIMIT_PER_LINE = 20
 SLEEP_TIME = 0.2
@@ -76,12 +77,20 @@ with SB(uc=True) as sb:
     sb.sleep(WAIT_FOR_CONFIG)
     
     subs = pysubs2.load(SRT_FILE)
+    counter = 0
     try:
         for line in subs:
+            if counter % REOPEN_BROWSER == 0:
+                # close the browser and reopen it
+                sb.quit()
+                sb.open("https://www.deepl.com/translator")
+                sb.sleep(WAIT_FOR_CONFIG)
+            
             tags, clean_text = extract_tags_and_text(line.text)
             translated_text = translate_text(clean_text, sb)
             print(f"Translated text: {translated_text}")
             line.text = reinsert_tags(tags, translated_text)
+            counter += 1
         # save the translated srt file
         subs.save(SRT_FILE.replace('.srt', '_translated.srt'))
     except Exception as e:
