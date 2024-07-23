@@ -1,4 +1,4 @@
-# Python Useful Codes
+# Subtitle-Translate
 -pip install pysubs2
 
 Playwright Installation:
