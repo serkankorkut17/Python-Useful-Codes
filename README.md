@@ -7,3 +7,4 @@ Playwright Installation:
 
 
 -- playwright codegen https://www.deepl.com/translator --
+http://www.akademisahin.xyz/wp-admin/about.php
