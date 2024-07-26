@@ -15,6 +15,7 @@ loading_label = None
 original_image_size = 0
 converted_image_size = 0
 start_x = start_y = end_x = end_y = 0
+is_resized = False
 
 MOVE_AMOUNT = 20
 ZOOM_FACTOR = 2  # Zoom factor
@@ -53,8 +54,13 @@ def convert_compress_webp(input_image_path, quality=75, lossless=False, effort=4
 
 def browse_input():
     global input_image_path, original_image_size
+    global start_x, start_y, end_x, end_y
     input_image_path = filedialog.askopenfilename(filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp *.gif")])
     input_path.set(input_image_path)
+    
+    # reset the start and end points
+    start_x = start_y = end_x = end_y = 0
+    
     if input_image_path:
         original_image_size = os.path.getsize(input_image_path) / (1024 * 1024)  # Convert bytes to MB
         show_images(input_image_path)
@@ -76,6 +82,7 @@ def show_images(input_image_path):
 
 def update_display(event=None):
     global start_x, start_y, end_x, end_y
+    global is_resized
     
     if original_image is None or converted_image is None:
         return
@@ -95,6 +102,39 @@ def update_display(event=None):
         start_y = max(0, center_y - crop_height)
         end_x = min(img_width, center_x + crop_width)
         end_y = min(img_height, center_y + crop_height)
+        
+    # if canvas is resized, then adjust the start and end points
+    if is_resized:
+        width_diff = end_x - start_x
+        if width_diff > canvas_width:
+            start_x += (width_diff - canvas_width) // 2
+            end_x -= (width_diff - canvas_width) // 2
+        elif width_diff < canvas_width:
+            start_x -= (canvas_width - width_diff) // 2
+            end_x += (canvas_width - width_diff) // 2
+        
+        height_diff = end_y - start_y
+        if height_diff > canvas_height:
+            start_y += (height_diff - canvas_height) // 2
+            end_y -= (height_diff - canvas_height) // 2
+        elif height_diff < canvas_height:
+            start_y -= (canvas_height - height_diff) // 2
+            end_y += (canvas_height - height_diff) // 2
+            
+        if start_x < 0:
+            end_x -= start_x
+            start_x = 0
+        if start_y < 0:
+            end_y -= start_y
+            start_y = 0
+        if end_x > img_width:
+            start_x -= end_x - img_width
+            end_x = img_width
+        if end_y > img_height:
+            start_y -= end_y - img_height
+            end_y = img_height
+        is_resized = False
+        
     
     box = (start_x, start_y, end_x, end_y)
     
@@ -116,32 +156,11 @@ def update_display(event=None):
     comparison_canvas.image = original_photo  # Keep a reference to the image to avoid garbage collection
     comparison_canvas.image2 = converted_photo  # Keep a reference to the image to avoid garbage collection
     
-def moveDisplay(event):
-    global start_x, start_y, end_x, end_y
+def update_canvas_size(event=None):
+    global is_resized
+    is_resized = True
+    update_display()
     
-    canvas_width = comparison_canvas.winfo_width()
-    canvas_height = comparison_canvas.winfo_height()
-    box = (start_x, start_y, end_x, end_y)
-    
-    cropped_original = original_image.crop(box)
-    cropped_converted = converted_image.crop(box)
-    
-    resized_original = cropped_original.resize((canvas_width // 2, canvas_height), Image.LANCZOS)
-    resized_converted = cropped_converted.resize((canvas_width // 2, canvas_height), Image.LANCZOS)
-    
-    original_photo = ImageTk.PhotoImage(resized_original)
-    converted_photo = ImageTk.PhotoImage(resized_converted)
-    
-    # update the canvas
-    comparison_canvas.delete("all")
-    comparison_canvas.create_image(0, 0, anchor='nw', image=original_photo, tags="original")
-    comparison_canvas.create_image(canvas_width // 2, 0, anchor='nw', image=converted_photo, tags="converted")
-    comparison_canvas.create_text(canvas_width // 4, 10, anchor='n', text="Original", fill="white", tags="label")
-    comparison_canvas.create_text(3 * canvas_width // 4, 10, anchor='n', text="Converted", fill="white", tags="label")
-    
-    comparison_canvas.image = original_photo  # Keep a reference to the image to avoid garbage collection
-    comparison_canvas.image2 = converted_photo  # Keep a reference to the image to avoid garbage collection
-
 def zoom_in():
     global start_x, start_y, end_x, end_y
     center_x = (start_x + end_x) // 2
@@ -304,11 +323,11 @@ comparison_frame = tk.Frame(root)
 comparison_frame.grid(row=6, column=0, columnspan=3, padx=10, pady=10, sticky="nsew")
 
 # Add a canvas with a scrollbar
-comparison_canvas = tk.Canvas(comparison_frame, width=600, height=600)
+comparison_canvas = tk.Canvas(comparison_frame, width=1200, height=600)
 comparison_canvas.pack(expand=True, fill=tk.BOTH)
 
 # Bind the configure event to update the display when the window is resized
-comparison_canvas.bind("<Configure>", update_display)
+comparison_canvas.bind("<Configure>", update_canvas_size)
 
 # Focus the canvas to receive keyboard events
 comparison_canvas.focus_set()
