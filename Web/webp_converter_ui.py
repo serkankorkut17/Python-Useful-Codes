@@ -55,7 +55,7 @@ def convert_compress_webp(input_image_path, quality=75, lossless=False, effort=4
 def browse_input():
     global input_image_path, original_image_size
     global start_x, start_y, end_x, end_y
-    input_image_path = filedialog.askopenfilename(filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp *.gif")])
+    input_image_path = filedialog.askopenfilename(filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp *.gif *.webp")])
     input_path.set(input_image_path)
     
     # reset the start and end points
