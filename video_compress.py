@@ -25,6 +25,7 @@ def compress_video(
     output_video_path,
     quality=23,
     preset="medium",
+    speed=5,
     max_width=1920,
     max_height=1080,
 ):
@@ -34,7 +35,8 @@ def compress_video(
     - input_video_path: The input video file path.
     - output_video_path: The output compressed video file path.
     - quality: A value from 0 (best quality, larger size) to 51 (worst quality, smaller size). Default is 23.
-    - preset: A value from 'ultrafast' (less compression, bigger file) to 'slower' (better compression, smaller file). Default is 'medium'.
+    - preset: A value from 'ultrafast' (less compression, bigger file) to 'slower' (better compression, smaller file). Default is 'medium'. (!!! not working for this codec)
+    -The speed option takes values from 0 (slowest, best quality) to 8 (fastest, lower quality). A value of 2 to 5 is often a good balance.
     - max_width: The maximum width for the output video.
     - max_height: The maximum height for the output video.
     """
@@ -70,7 +72,8 @@ def compress_video(
         output_video_path,
         vcodec="libvpx-vp9",
         crf=quality,
-        preset=preset,
+        # preset=preset,
+        speed=speed,
         s=f"{new_width}x{new_height}",  # Set the output resolution
     ).run()
 
@@ -102,11 +105,11 @@ else:
     print("FFmpeg is installed.")
 input_video = "uploads/uhd_3840_2160_25fps.mp4"
 compressed_video = "uploads/compressed_video.webm"
-compressed_video2 = "uploads/compressed_video2.webm"
-converted_video = "uploads/converted_video.webm"
-compress_video(input_video, compressed_video, quality=35, preset="slow")
-print("Video compressed")
-compress_video(input_video, compressed_video2)
-print("Video compressed")
-convert_to_webm(input_video, converted_video)
-print("Video converted")
+compress_video(
+    input_video,
+    compressed_video,
+    quality=35,
+    speed=8,
+    max_width=1920,
+    max_height=1080,
+)
